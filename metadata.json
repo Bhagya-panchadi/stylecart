@@ -1,0 +1,7 @@
+{
+  "name": "StyleCart - Modern Fashion Shopping",
+  "description": "Premium online clothing and fashion store with trendy collections for Men, Women, and Kids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
